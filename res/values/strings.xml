@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Settings!</string>
+    <string name="app_name">AlarmCast</string>
+    <!-- Context Menu Item on Alarm Settings screen: Enable alarm -->
+    <string name="enable_alarm">Turn alarm on</string>
+    <string name="time">Time</string>
+    <string name="alarm_repeat">Repeat</string>
+    <string name="alert">Ringtone</string>
+    <string name="alarm_vibrate">Vibrate</string>
+    <string name="label">Label</string>
+</resources>
